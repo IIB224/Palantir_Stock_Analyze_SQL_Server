@@ -1,0 +1,1 @@
+# Palantir_Stock_Analyze_SQL_Server
